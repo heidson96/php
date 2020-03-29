@@ -1,6 +1,6 @@
 <?php
 
-	echo "Olá Mundo 123!";
+	echo "Olá Mundo atual!";
 
 	echo "Olá HCode!";
 ?>
